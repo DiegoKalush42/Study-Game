@@ -1,3 +1,4 @@
+![image](https://github.com/DiegoKalush42/Study-Game/assets/147668013/a2f1aa4f-1ee3-4cb0-b8c4-4864c3d90ac6)
 
 **Python-Based Study Game Program**
 This Python program is designed to enhance your study experience through an interactive game format. It allows you to match terms, definitions, and examples for each concept, making your learning process more engaging and effective. This software is currently only compatible with Windows.
@@ -10,10 +11,13 @@ This Python program is designed to enhance your study experience through an inte
 * Flexible Learning: Adapt the program to your study habits by creating custom study sessions that focus on different areas or subjects.
   
 **Customizing Your Study Material**
-To customize your study material, open the provided Excel templates and modify them according to your needs. Ensure that you maintain the structure (terms, definitions, examples) to ensure compatibility with the game. You can create different files for different subjects or study sessions.
+To customize your study material, open the provided Excel templates and modify them according to your needs. Ensure that you maintain the structure (terms, definitions, examples) to ensure compatibility with the game. You can create different files for different subjects or study sessions.AS seen in the Example, this game was made for studying 'Introducción al derecho'
 
 **Program Structure**
 The study material can be divided into various categories such as semesters, exams, or topics. Follow the structure provided within the templates to categorize your material effectively. This organization will be reflected in the game, allowing for targeted and organized study sessions.
+
+![image](https://github.com/DiegoKalush42/Study-Game/assets/147668013/37a88fb0-64ba-47bc-889f-6abd67d6a795)
+
 
 **Compatibility Note**
 This program is specifically designed for Windows operating systems. Please ensure that you are using a compatible system to avoid any issues with program performance and functionality.
